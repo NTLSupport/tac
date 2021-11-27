@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dexbiobot.github.io/tac/blog</id>
-    <title>Resources Blog</title>
+    <title>Technical Assistance Center Blog</title>
     <updated>2021-11-27T12:01:37.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dexbiobot.github.io/tac/blog"/>
-    <subtitle>Resources Blog</subtitle>
-    <icon>https://dexbiobot.github.io/tac/img/nayatel_favicon.ico</icon>
+    <subtitle>Technical Assistance Center Blog</subtitle>
+    <icon>https://dexbiobot.github.io/tac/img/nayatel_favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[Greetings!]]></title>
         <id>greetings</id>
