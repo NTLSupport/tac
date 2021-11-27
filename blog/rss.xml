@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Technical Assistance Center Blog</title>
+        <title>TAC Blog</title>
         <link>https://dexbiobot.github.io/tac/blog</link>
-        <description>Technical Assistance Center Blog</description>
+        <description>TAC Blog</description>
         <lastBuildDate>Sat, 27 Nov 2021 12:01:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
