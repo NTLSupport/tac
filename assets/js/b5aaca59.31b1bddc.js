@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[422],{4439:function(t){t.exports=JSON.parse('{"/tac/blog/tags/tip":{"allTagsPath":"/tac/blog/tags","slug":"/tac/blog/tags/tip","name":"tip","count":1,"permalink":"/tac/blog/tags/tip"}}')}}]);
