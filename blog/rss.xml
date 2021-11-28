@@ -4,9 +4,25 @@
         <title>TAC Blog</title>
         <link>https://dexbiobot.github.io/tac/blog</link>
         <description>TAC Blog</description>
-        <lastBuildDate>Sun, 28 Nov 2021 14:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 16:56:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Timings]]></title>
+            <link>https://dexbiobot.github.io/tac/blog/timings</link>
+            <guid>timings</guid>
+            <pubDate>Sun, 28 Nov 2021 16:56:38 GMT</pubDate>
+            <description><![CDATA[Normal Customer]]></description>
+            <content:encoded><![CDATA[<h2>Normal Customer</h2><p><strong>Complaints</strong></p><p>6-8 HOURS</p><hr/><p><strong>Cabling</strong></p><p>5-7 DAYS</p><hr/><p><strong>Relocation (same premises)</strong> </p><p>4-5 DAYS</p><hr/><p><strong>Shifting</strong> </p><p>up to 8 DAYS</p><h2>1 Star Customer</h2><p><strong>Complaints</strong></p><p>4 HOURS</p><h2>2 Star Customer</h2><p><strong>Complaints</strong></p><p>3 HOURS</p><h2>3 Star Customer</h2><p><strong>Complaints</strong></p><p>2 HOURS</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Credentials]]></title>
+            <link>https://dexbiobot.github.io/tac/blog/credentials</link>
+            <guid>credentials</guid>
+            <pubDate>Sun, 28 Nov 2021 16:50:19 GMT</pubDate>
+            <description><![CDATA[NCE]]></description>
+            <content:encoded><![CDATA[<h2>NCE</h2><p>Custom</p><h2>Queue</h2><p>tac  <br/> t@Cl0G!n1 <br/></p><h2>Mail</h2><p>pak@123</p><h2>CRM</h2><p>Custom</p><h2>NMS</h2><p>_d1f&amp;W-g#8</p><h2>Wifi</h2><p>Test@1234</p><h2>Knowledge</h2><p>Int3rnal</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Optical Power]]></title>
             <link>https://dexbiobot.github.io/tac/blog/powers</link>
