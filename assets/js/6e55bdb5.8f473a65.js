@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3312],{5768:function(a){a.exports=JSON.parse('{"allTagsPath":"/tac/blog/tags","slug":"/tac/blog/tags/nato","name":"nato","count":1,"permalink":"/tac/blog/tags/nato"}')}}]);

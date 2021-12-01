@@ -4,9 +4,50 @@
         <title>TAC Blog</title>
         <link>https://dexbiobot.github.io/tac/blog</link>
         <description>TAC Blog</description>
-        <lastBuildDate>Mon, 29 Nov 2021 13:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 10:03:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[12h/24h]]></title>
+            <link>https://dexbiobot.github.io/tac/blog/time</link>
+            <guid>time</guid>
+            <pubDate>Wed, 01 Dec 2021 10:03:50 GMT</pubDate>
+            <description><![CDATA[coming soon]]></description>
+            <content:encoded><![CDATA[<p><strong>coming soon</strong></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NATO Alphabet]]></title>
+            <link>https://dexbiobot.github.io/tac/blog/nato</link>
+            <guid>nato</guid>
+            <pubDate>Wed, 01 Dec 2021 09:58:21 GMT</pubDate>
+            <description><![CDATA[nato]]></description>
+            <content:encoded><![CDATA[<p><img src="/img/nato.jpg" alt="nato"/></p><p>Alfa
+Bravo
+Charlie
+Delta
+Echo
+Foxtrot
+Golf
+Hotel
+India
+Juliett
+Kilo
+Lima
+Mike
+November
+Oscar
+Papa
+Quebec
+Romeo
+Sierra
+Tango
+Uniform
+Victor
+Whiskey
+X-ray
+Yankee
+Zulu</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Allowed Ports]]></title>
             <link>https://dexbiobot.github.io/tac/blog/ports</link>
@@ -29,7 +70,7 @@
             <guid>timings</guid>
             <pubDate>Sun, 28 Nov 2021 16:56:38 GMT</pubDate>
             <description><![CDATA[Normal Customer]]></description>
-            <content:encoded><![CDATA[<h2>Normal Customer</h2><p><strong>Complaints</strong></p><p>6-8 HOURS</p><hr/><p><strong>Cabling</strong></p><p>5-7 DAYS</p><hr/><p><strong>Relocation (same premises)</strong> </p><p>4-5 DAYS</p><hr/><p><strong>Shifting</strong> </p><p>up to 8 DAYS</p><h2>1 Star Customer</h2><p><strong>Complaints</strong></p><p>4 HOURS</p><h2>2 Star Customer</h2><p><strong>Complaints</strong></p><p>3 HOURS</p><h2>3 Star Customer</h2><p><strong>Complaints</strong></p><p>2 HOURS</p>]]></content:encoded>
+            <content:encoded><![CDATA[<h2>Normal Customer</h2><p><strong>Complaints</strong></p><p>6-8 HOURS</p><hr/><p><strong>Cabling</strong></p><p>5-7 DAYS</p><hr/><p><strong>Relocation (same premises)</strong> </p><p>4-5 DAYS</p><hr/><p><strong>Shifting</strong> </p><p>up to 8 DAYS</p><h2>1 Star Customer</h2><p><strong>Complaints</strong></p><p>4 HOURS</p><h2>2 Star Customer</h2><p><strong>Complaints</strong></p><p>3 HOURS</p><h2>3 Star Customer</h2><p><strong>Complaints</strong></p><p>2 HOURS</p><p>:::tip Pro tip</p><p>Always convey VAS charges to the customer</p><p>:::</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Credentials]]></title>

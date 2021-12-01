@@ -2,11 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dexbiobot.github.io/tac/blog</id>
     <title>TAC Blog</title>
-    <updated>2021-11-29T13:10:30.271Z</updated>
+    <updated>2021-12-01T10:03:50.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dexbiobot.github.io/tac/blog"/>
     <subtitle>TAC Blog</subtitle>
     <icon>https://dexbiobot.github.io/tac/img/nayatel_favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[12h/24h]]></title>
+        <id>time</id>
+        <link href="https://dexbiobot.github.io/tac/blog/time"/>
+        <updated>2021-12-01T10:03:50.357Z</updated>
+        <summary type="html"><![CDATA[coming soon]]></summary>
+        <content type="html"><![CDATA[<p><strong>coming soon</strong></p>]]></content>
+        <author>
+            <name>Shoaib Sajid</name>
+            <uri>https://github.com/dexbiobot</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NATO Alphabet]]></title>
+        <id>nato</id>
+        <link href="https://dexbiobot.github.io/tac/blog/nato"/>
+        <updated>2021-12-01T09:58:21.904Z</updated>
+        <summary type="html"><![CDATA[nato]]></summary>
+        <content type="html"><![CDATA[<p><img src="/img/nato.jpg" alt="nato"/></p><p>Alfa
+Bravo
+Charlie
+Delta
+Echo
+Foxtrot
+Golf
+Hotel
+India
+Juliett
+Kilo
+Lima
+Mike
+November
+Oscar
+Papa
+Quebec
+Romeo
+Sierra
+Tango
+Uniform
+Victor
+Whiskey
+X-ray
+Yankee
+Zulu</p>]]></content>
+        <author>
+            <name>Shoaib Sajid</name>
+            <uri>https://github.com/dexbiobot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Allowed Ports]]></title>
         <id>ports</id>
@@ -37,7 +86,7 @@
         <link href="https://dexbiobot.github.io/tac/blog/timings"/>
         <updated>2021-11-28T16:56:38.935Z</updated>
         <summary type="html"><![CDATA[Normal Customer]]></summary>
-        <content type="html"><![CDATA[<h2>Normal Customer</h2><p><strong>Complaints</strong></p><p>6-8 HOURS</p><hr/><p><strong>Cabling</strong></p><p>5-7 DAYS</p><hr/><p><strong>Relocation (same premises)</strong> </p><p>4-5 DAYS</p><hr/><p><strong>Shifting</strong> </p><p>up to 8 DAYS</p><h2>1 Star Customer</h2><p><strong>Complaints</strong></p><p>4 HOURS</p><h2>2 Star Customer</h2><p><strong>Complaints</strong></p><p>3 HOURS</p><h2>3 Star Customer</h2><p><strong>Complaints</strong></p><p>2 HOURS</p>]]></content>
+        <content type="html"><![CDATA[<h2>Normal Customer</h2><p><strong>Complaints</strong></p><p>6-8 HOURS</p><hr/><p><strong>Cabling</strong></p><p>5-7 DAYS</p><hr/><p><strong>Relocation (same premises)</strong> </p><p>4-5 DAYS</p><hr/><p><strong>Shifting</strong> </p><p>up to 8 DAYS</p><h2>1 Star Customer</h2><p><strong>Complaints</strong></p><p>4 HOURS</p><h2>2 Star Customer</h2><p><strong>Complaints</strong></p><p>3 HOURS</p><h2>3 Star Customer</h2><p><strong>Complaints</strong></p><p>2 HOURS</p><p>:::tip Pro tip</p><p>Always convey VAS charges to the customer</p><p>:::</p>]]></content>
         <author>
             <name>Shoaib Sajid</name>
             <uri>https://github.com/dexbiobot</uri>

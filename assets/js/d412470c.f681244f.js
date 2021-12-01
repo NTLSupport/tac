@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7910],{4214:function(s){s.exports=JSON.parse('{"allTagsPath":"/tac/blog/tags","slug":"/tac/blog/tags/ports","name":"ports","count":1,"permalink":"/tac/blog/tags/ports"}')}}]);
