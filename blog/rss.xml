@@ -4,9 +4,25 @@
         <title>TAC Blog</title>
         <link>https://dexbiobot.github.io/tac/blog</link>
         <description>TAC Blog</description>
-        <lastBuildDate>Wed, 01 Dec 2021 10:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 08:46:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Huawei UPS status]]></title>
+            <link>https://dexbiobot.github.io/tac/blog/ups</link>
+            <guid>ups</guid>
+            <pubDate>Fri, 03 Dec 2021 08:46:38 GMT</pubDate>
+            <description><![CDATA[UPS Status]]></description>
+            <content:encoded><![CDATA[<table><thead><tr><th colspan="2">UPS Status</th></tr></thead><tbody><tr><td>No light</td><td>UPS is fully charged</td></tr><tr><td>CHG</td><td>UPS is Charging</td></tr><tr><td>DIS</td><td>UPS is Discharging (Switch is off or power adapter unplugged)</td></tr><tr><td>ALA</td><td>Alarm (UPS is probably faulty)</td></tr></tbody></table>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Escalation for Systems]]></title>
+            <link>https://dexbiobot.github.io/tac/blog/escalation_systems</link>
+            <guid>escalation_systems</guid>
+            <pubDate>Fri, 03 Dec 2021 08:39:43 GMT</pubDate>
+            <description><![CDATA[Escalation Matrix for Systems dept]]></description>
+            <content:encoded><![CDATA[<table><thead><tr><th colspan="3">Escalation Matrix for Systems dept</th></tr></thead><tbody><tr><td>LEVEL</td><td>ESCALATION</td><td>POC</td></tr><tr><td>1</td><td>Ahsen Ahmed Awan</td><td>03018661058</td></tr><tr><td>2</td><td>Munhib Mukhtar</td><td>03005016120</td></tr><tr><td>3</td><td>Hassan Masood</td><td>03005011740</td></tr><tr><td>4</td><td>Nida Akhtar</td><td>03028508161</td></tr><tr><td>5</td><td>Yasim Zaman Kiani</td><td>03345544086</td></tr></tbody></table>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[12h/24h]]></title>
             <link>https://dexbiobot.github.io/tac/blog/time</link>
