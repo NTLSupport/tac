@@ -4,38 +4,54 @@
         <title>TAC Blog</title>
         <link>https://dexbiobot.github.io/tac/blog</link>
         <description>TAC Blog</description>
-        <lastBuildDate>Fri, 03 Dec 2021 08:46:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 19:33:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[12h/24h]]></title>
+            <link>https://dexbiobot.github.io/tac/blog/time</link>
+            <guid>time</guid>
+            <pubDate>Mon, 06 Dec 2021 19:33:54 GMT</pubDate>
+            <description><![CDATA[coming soon]]></description>
+            <content:encoded><![CDATA[<p><strong>coming soon</strong></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Huawei UPS status]]></title>
             <link>https://dexbiobot.github.io/tac/blog/ups</link>
             <guid>ups</guid>
-            <pubDate>Fri, 03 Dec 2021 08:46:38 GMT</pubDate>
+            <pubDate>Mon, 06 Dec 2021 19:33:54 GMT</pubDate>
             <description><![CDATA[UPS Status]]></description>
             <content:encoded><![CDATA[<table><thead><tr><th colspan="2">UPS Status</th></tr></thead><tbody><tr><td>No light</td><td>UPS is fully charged</td></tr><tr><td>CHG</td><td>UPS is Charging</td></tr><tr><td>DIS</td><td>UPS is Discharging (Switch is off or power adapter unplugged)</td></tr><tr><td>ALA</td><td>Alarm (UPS is probably faulty)</td></tr></tbody></table>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BRAS]]></title>
+            <link>https://dexbiobot.github.io/tac/blog/bras</link>
+            <guid>bras</guid>
+            <pubDate>Mon, 06 Dec 2021 19:33:54 GMT</pubDate>
+            <description><![CDATA[F11]]></description>
+            <content:encoded><![CDATA[<h2>F11</h2><p>IP: 58.65.175.242</p><h2>F POP</h2><p>IP: 58.65.175.251</p><h2>MT</h2><p>IP: 58.65.175.240</p><h2>SADDAR</h2><p>IP: 58.65.175.252</p><h2>FSD</h2><p>IP: 58.65.175.248</p><h2>PSH</h2><p>IP: 58.65.175.45</p><h2>GRW</h2><p>IP: 58.65.175.246</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Credentials]]></title>
+            <link>https://dexbiobot.github.io/tac/blog/credentials</link>
+            <guid>credentials</guid>
+            <pubDate>Mon, 06 Dec 2021 19:33:54 GMT</pubDate>
+            <description><![CDATA[NCE]]></description>
+            <content:encoded><![CDATA[<h2>NCE</h2><p><strong>Username:</strong> your.name</p><p><strong>Password:</strong> 123456</p><h2>Queue</h2><p><strong>Username:</strong> tac</p><p><strong>Password:</strong> t@Cl0G!n1</p><h2>Mail</h2><p><strong>Username:</strong> <a href="mailto:yourname@nayatel.com">yourname@nayatel.com</a> </p><p><strong>Password:</strong> pak@123 </p><h2>CRM</h2><p><strong>Username:</strong> your.name</p><p><strong>Password:</strong> 123456</p><h2>NMS</h2><p><strong>Username:</strong> nayatel</p><p><strong>Password:</strong> _d1f&amp;W-g#8</p><h2>Wifi</h2><p><strong>SSID:</strong> Hardware 5Ghz</p><p><strong>Password:</strong> Test@1234</p><h2>Knowledge</h2><p><strong>Username:</strong> tac</p><p><strong>Password:</strong> Int3rnal</p><h2>Phone</h2><h3>Log in</h3><p><strong>Dial 788</strong></p><p><strong>Agent:</strong> Your agent number</p><p><strong>Password:</strong> 1234#</p><h3>Log out</h3><p><strong>Dial 789</strong></p><p><strong>Agent:</strong> Your agent number</p><p><strong>Password:</strong> 1234#</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Escalation for Systems]]></title>
             <link>https://dexbiobot.github.io/tac/blog/escalation_systems</link>
             <guid>escalation_systems</guid>
-            <pubDate>Fri, 03 Dec 2021 08:39:43 GMT</pubDate>
+            <pubDate>Mon, 06 Dec 2021 19:33:54 GMT</pubDate>
             <description><![CDATA[Escalation Matrix for Systems dept]]></description>
             <content:encoded><![CDATA[<table><thead><tr><th colspan="3">Escalation Matrix for Systems dept</th></tr></thead><tbody><tr><td>LEVEL</td><td>ESCALATION</td><td>POC</td></tr><tr><td>1</td><td>Ahsen Ahmed Awan</td><td>03018661058</td></tr><tr><td>2</td><td>Munhib Mukhtar</td><td>03005016120</td></tr><tr><td>3</td><td>Hassan Masood</td><td>03005011740</td></tr><tr><td>4</td><td>Nida Akhtar</td><td>03028508161</td></tr><tr><td>5</td><td>Yasim Zaman Kiani</td><td>03345544086</td></tr></tbody></table>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[12h/24h]]></title>
-            <link>https://dexbiobot.github.io/tac/blog/time</link>
-            <guid>time</guid>
-            <pubDate>Wed, 01 Dec 2021 10:03:50 GMT</pubDate>
-            <description><![CDATA[coming soon]]></description>
-            <content:encoded><![CDATA[<p><strong>coming soon</strong></p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NATO Alphabet]]></title>
             <link>https://dexbiobot.github.io/tac/blog/nato</link>
             <guid>nato</guid>
-            <pubDate>Wed, 01 Dec 2021 09:58:21 GMT</pubDate>
+            <pubDate>Mon, 06 Dec 2021 19:33:54 GMT</pubDate>
             <description><![CDATA[nato]]></description>
             <content:encoded><![CDATA[<p><img src="/img/nato.jpg" alt="nato"/></p><p>Alfa
 Bravo
@@ -65,44 +81,28 @@ Yankee
 Zulu</p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Optical Power]]></title>
+            <link>https://dexbiobot.github.io/tac/blog/powers</link>
+            <guid>powers</guid>
+            <pubDate>Mon, 06 Dec 2021 19:33:54 GMT</pubDate>
+            <description><![CDATA[| Wavelength | Range                           |]]></description>
+            <content:encoded><![CDATA[<table><thead><tr><th>Wavelength</th><th>Range</th></tr></thead><tbody><tr><td>1490</td><td>-8 to -26</td></tr><tr><td>1310</td><td>-8 to -27 (B+)   -12 to -31 (C+)</td></tr><tr><td>1150</td><td>+2 to -8</td></tr></tbody></table>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Allowed Ports]]></title>
             <link>https://dexbiobot.github.io/tac/blog/ports</link>
             <guid>ports</guid>
-            <pubDate>Mon, 29 Nov 2021 13:10:30 GMT</pubDate>
+            <pubDate>Mon, 06 Dec 2021 19:33:54 GMT</pubDate>
             <description><![CDATA[ALLOWED PORTS]]></description>
             <content:encoded><![CDATA[<h2>ALLOWED PORTS</h2><table><thead><tr><th colspan="6">INGRESS TCP ALLOWED PORTS (FOR HOME CUSTOMERS)</th></tr></thead><tbody><tr><td>20</td><td>21</td><td>554</td><td>843</td><td>1234</td><td>1433</td></tr><tr><td>1720</td><td>1723</td><td>1935</td><td>22</td><td>3074</td><td>3075</td></tr><tr><td>3389</td><td>3417</td><td>3478</td><td>3479</td><td>3480</td><td>3569</td></tr><tr><td>4520</td><td>4521</td><td>4522</td><td>4523</td><td>4524</td><td>5000</td></tr><tr><td>7547</td><td>7777</td><td>8888</td><td>8080</td><td>9946</td><td>9988</td></tr><tr><td>15000</td><td>20002</td><td>30840</td><td>30850</td><td>30870</td><td>8000-8160</td></tr><tr><td>32400</td><td>34567</td><td>34599</td><td>37777</td><td>37778</td><td>10000-10099</td></tr><tr><td>42124</td><td colspan="4"></td><td>59900-59999</td></tr></tbody></table><h2>BLOCKED PORTS (ALL)</h2><table><thead><tr><th colspan="6">INGRESS BLOCKED PORTS (ALL CUSTOMERS)</th></tr></thead><tbody><tr><td colspan="6">TCP</td></tr><tr><td>87</td><td>512</td><td>513</td><td>514</td><td>515</td><td>543</td></tr><tr><td>5</td><td>44</td><td>7547</td><td colspan="3"></td></tr><tr><td colspan="6">UDP</td></tr><tr><td>80</td><td>87</td><td>161</td><td>162</td><td>1900</td><td></td></tr></tbody></table><h2>BLOCKED PORTS (HOME)</h2><table><thead><tr><th colspan="6">INGRESS BLOCKED PORTS (HOME CUSTOMERS)</th></tr></thead><tbody><tr><td colspan="6">UDP</td></tr><tr><td>53</td><td>80</td><td>161</td><td>162</td><td>4520</td><td>4521</td></tr><tr><td>4</td><td>522</td><td>4523</td><td>4524</td><td colspan="2"></td></tr></tbody></table><h2>BLOCKED PORTS (ALL)</h2><table><thead><tr><th>TCP</th><th>UDP</th></tr></thead><tbody><tr><td>25</td><td>1900</td></tr></tbody></table><h2>BLOCKED PORTS (SAFEWEB)</h2><p><strong>TCP/UDP</strong> 53</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRAS]]></title>
-            <link>https://dexbiobot.github.io/tac/blog/bras</link>
-            <guid>bras</guid>
-            <pubDate>Mon, 29 Nov 2021 12:57:26 GMT</pubDate>
-            <description><![CDATA[F11]]></description>
-            <content:encoded><![CDATA[<h2>F11</h2><p>IP: 58.65.175.242</p><h2>F POP</h2><p>IP: 58.65.175.251</p><h2>MT</h2><p>IP: 58.65.175.240</p><h2>SADDAR</h2><p>IP: 58.65.175.252</p><h2>FSD</h2><p>IP: 58.65.175.248</p><h2>PSH</h2><p>IP: 58.65.175.45</p><h2>GRW</h2><p>IP: 58.65.175.246</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Timings]]></title>
             <link>https://dexbiobot.github.io/tac/blog/timings</link>
             <guid>timings</guid>
-            <pubDate>Sun, 28 Nov 2021 16:56:38 GMT</pubDate>
+            <pubDate>Mon, 06 Dec 2021 19:33:54 GMT</pubDate>
             <description><![CDATA[Normal Customer]]></description>
             <content:encoded><![CDATA[<h2>Normal Customer</h2><p><strong>Complaints</strong></p><p>6-8 HOURS</p><hr/><p><strong>Cabling</strong></p><p>5-7 DAYS</p><hr/><p><strong>Relocation (same premises)</strong> </p><p>4-5 DAYS</p><hr/><p><strong>Shifting</strong> </p><p>up to 8 DAYS</p><h2>1 Star Customer</h2><p><strong>Complaints</strong></p><p>4 HOURS</p><h2>2 Star Customer</h2><p><strong>Complaints</strong></p><p>3 HOURS</p><h2>3 Star Customer</h2><p><strong>Complaints</strong></p><p>2 HOURS</p><p>:::tip Pro tip</p><p>Always convey VAS charges to the customer</p><p>:::</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Credentials]]></title>
-            <link>https://dexbiobot.github.io/tac/blog/credentials</link>
-            <guid>credentials</guid>
-            <pubDate>Sun, 28 Nov 2021 16:50:19 GMT</pubDate>
-            <description><![CDATA[NCE]]></description>
-            <content:encoded><![CDATA[<h2>NCE</h2><p><strong>Username:</strong> your.name</p><p><strong>Password:</strong> 123456</p><h2>Queue</h2><p><strong>Username:</strong> tac</p><p><strong>Password:</strong> t@Cl0G!n1</p><h2>Mail</h2><p><strong>Username:</strong> <a href="mailto:yourname@nayatel.com">yourname@nayatel.com</a> </p><p><strong>Password:</strong> pak@123 </p><h2>CRM</h2><p><strong>Username:</strong> your.name</p><p><strong>Password:</strong> 123456</p><h2>NMS</h2><p><strong>Username:</strong> nayatel</p><p><strong>Password:</strong> _d1f&amp;W-g#8</p><h2>Wifi</h2><p><strong>SSID:</strong> Hardware 5Ghz</p><p><strong>Password:</strong> Test@1234</p><h2>Knowledge</h2><p><strong>Username:</strong> tac</p><p><strong>Password:</strong> Int3rnal</p><h2>Phone</h2><h3>Log in</h3><p><strong>Dial 788</strong></p><p><strong>Agent:</strong> Your agent number</p><p><strong>Password:</strong> 1234#</p><h3>Log out</h3><p><strong>Dial 789</strong></p><p><strong>Agent:</strong> Your agent number</p><p><strong>Password:</strong> 1234#</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Optical Power]]></title>
-            <link>https://dexbiobot.github.io/tac/blog/powers</link>
-            <guid>powers</guid>
-            <pubDate>Sun, 28 Nov 2021 14:07:27 GMT</pubDate>
-            <description><![CDATA[| Wavelength | Range                           |]]></description>
-            <content:encoded><![CDATA[<table><thead><tr><th>Wavelength</th><th>Range</th></tr></thead><tbody><tr><td>1490</td><td>-8 to -26</td></tr><tr><td>1310</td><td>-8 to -27 (B+)   -12 to -31 (C+)</td></tr><tr><td>1150</td><td>+2 to -8</td></tr></tbody></table>]]></content:encoded>
         </item>
     </channel>
 </rss>
