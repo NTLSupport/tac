@@ -24,20 +24,12 @@
             <content:encoded><![CDATA[<table><thead><tr><th colspan="2">UPS Status</th></tr></thead><tbody><tr><td>No light</td><td>UPS is fully charged</td></tr><tr><td>CHG</td><td>UPS is Charging</td></tr><tr><td>DIS</td><td>UPS is Discharging (Switch is off or power adapter unplugged)</td></tr><tr><td>ALA</td><td>Alarm (UPS is probably faulty)</td></tr></tbody></table>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BRAS]]></title>
-            <link>https://dexbiobot.github.io/tac/blog/bras</link>
-            <guid>bras</guid>
-            <pubDate>Mon, 06 Dec 2021 19:33:54 GMT</pubDate>
-            <description><![CDATA[F11]]></description>
-            <content:encoded><![CDATA[<h2>F11</h2><p>IP: 58.65.175.242</p><h2>F POP</h2><p>IP: 58.65.175.251</p><h2>MT</h2><p>IP: 58.65.175.240</p><h2>SADDAR</h2><p>IP: 58.65.175.252</p><h2>FSD</h2><p>IP: 58.65.175.248</p><h2>PSH</h2><p>IP: 58.65.175.45</p><h2>GRW</h2><p>IP: 58.65.175.246</p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Credentials]]></title>
             <link>https://dexbiobot.github.io/tac/blog/credentials</link>
             <guid>credentials</guid>
             <pubDate>Mon, 06 Dec 2021 19:33:54 GMT</pubDate>
-            <description><![CDATA[NCE]]></description>
-            <content:encoded><![CDATA[<h2>NCE</h2><p><strong>Username:</strong> your.name</p><p><strong>Password:</strong> 123456</p><h2>Queue</h2><p><strong>Username:</strong> tac</p><p><strong>Password:</strong> t@Cl0G!n1</p><h2>Mail</h2><p><strong>Username:</strong> <a href="mailto:yourname@nayatel.com">yourname@nayatel.com</a> </p><p><strong>Password:</strong> pak@123 </p><h2>CRM</h2><p><strong>Username:</strong> your.name</p><p><strong>Password:</strong> 123456</p><h2>NMS</h2><p><strong>Username:</strong> nayatel</p><p><strong>Password:</strong> _d1f&amp;W-g#8</p><h2>Wifi</h2><p><strong>SSID:</strong> Hardware 5Ghz</p><p><strong>Password:</strong> Test@1234</p><h2>Knowledge</h2><p><strong>Username:</strong> tac</p><p><strong>Password:</strong> Int3rnal</p><h2>Phone</h2><h3>Log in</h3><p><strong>Dial 788</strong></p><p><strong>Agent:</strong> Your agent number</p><p><strong>Password:</strong> 1234#</p><h3>Log out</h3><p><strong>Dial 789</strong></p><p><strong>Agent:</strong> Your agent number</p><p><strong>Password:</strong> 1234#</p>]]></content:encoded>
+            <description><![CDATA[Phone Credentials]]></description>
+            <content:encoded><![CDATA[<h2>Phone Credentials</h2><table><thead><tr><th>Mode</th><th>Dial</th><th>Username</th><th>Password</th></tr></thead><tbody><tr><td>Log in</td><td>788</td><td>agent number</td><td>1234#</td></tr><tr><td>Log out</td><td>799</td><td>agent number</td><td>1234#</td></tr></tbody></table><h2>Other Credentials</h2><table><thead><tr><th>Platform</th><th>Username</th><th>Password</th></tr></thead><tbody><tr><td>CRM</td><td>your.name</td><td>123456</td></tr><tr><td>NCE</td><td>your.name</td><td>123456</td></tr><tr><td>Queue</td><td>tac</td><td>t@Cl0G!n1</td></tr><tr><td>Mail</td><td>your.name@nayatel.com</td><td>pak@123</td></tr><tr><td>NMS</td><td>nayatel</td><td>_d1f&amp;W-g#8</td></tr><tr><td>WiFi</td><td>Hardware 5Ghz</td><td>Test@1234</td></tr><tr><td>Knowledge</td><td>tac</td><td>Int3rnal</td></tr></tbody></table>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Escalation for Systems]]></title>
@@ -103,6 +95,14 @@ Zulu</p>]]></content:encoded>
             <pubDate>Mon, 06 Dec 2021 19:33:54 GMT</pubDate>
             <description><![CDATA[Normal Customer]]></description>
             <content:encoded><![CDATA[<h2>Normal Customer</h2><p><strong>Complaints</strong></p><p>6-8 HOURS</p><hr/><p><strong>Cabling</strong></p><p>5-7 DAYS</p><hr/><p><strong>Relocation (same premises)</strong> </p><p>4-5 DAYS</p><hr/><p><strong>Shifting</strong> </p><p>up to 8 DAYS</p><h2>1 Star Customer</h2><p><strong>Complaints</strong></p><p>4 HOURS</p><h2>2 Star Customer</h2><p><strong>Complaints</strong></p><p>3 HOURS</p><h2>3 Star Customer</h2><p><strong>Complaints</strong></p><p>2 HOURS</p><p>:::tip Pro tip</p><p>Always convey VAS charges to the customer</p><p>:::</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BRAS]]></title>
+            <link>https://dexbiobot.github.io/tac/blog/bras</link>
+            <guid>bras</guid>
+            <pubDate>Mon, 06 Dec 2021 19:33:54 GMT</pubDate>
+            <description><![CDATA[bras image]]></description>
+            <content:encoded><![CDATA[<p><img src="./ip_nodes.jpeg" alt="bras image"/></p><h2>F11</h2><p>IP: 58.65.175.242</p><h2>F POP</h2><p>IP: 58.65.175.251</p><h2>MT</h2><p>IP: 58.65.175.240</p><h2>SADDAR</h2><p>IP: 58.65.175.252</p><h2>FSD</h2><p>IP: 58.65.175.248</p><h2>PSH</h2><p>IP: 58.65.175.45</p><h2>GRW</h2><p>IP: 58.65.175.246</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
