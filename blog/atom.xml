@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dexbiobot.github.io/tac/blog</id>
     <title>TAC Blog</title>
-    <updated>2021-12-06T19:33:54.000Z</updated>
+    <updated>2021-12-10T15:47:25.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dexbiobot.github.io/tac/blog"/>
     <subtitle>TAC Blog</subtitle>
     <icon>https://dexbiobot.github.io/tac/img/clown.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Telemarketing]]></title>
+        <id>telemarketing</id>
+        <link href="https://dexbiobot.github.io/tac/blog/telemarketing"/>
+        <updated>2021-12-10T15:47:25.665Z</updated>
+        <summary type="html"><![CDATA[Telemarketing]]></summary>
+        <content type="html"><![CDATA[<h2>Telemarketing</h2><p>📞To block telemarketing communication, register your number on the Do not Contact Register (DNCR)
+SMS &#x27;Reg&#x27; to 3627.
+📨 To block spamming, type spammer&#x27;s number, give a space, paste the received message &amp; SMS to 9000.
+❓To block obnoxious/unknown calls and SMSs, dial *420# (for Jazz, Telenor and Ufone subscribers) or 420 (for Zong subscribers)</p><p><img src="/img/telemarketing.jpeg" alt="telemarketing"/></p>]]></content>
+        <author>
+            <name>Shoaib Sajid</name>
+            <uri>https://github.com/dexbiobot</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVAS]]></title>
+        <id>cvas</id>
+        <link href="https://dexbiobot.github.io/tac/blog/cvas"/>
+        <updated>2021-12-10T15:45:42.030Z</updated>
+        <summary type="html"><![CDATA[CVAS]]></summary>
+        <content type="html"><![CDATA[<h2>CVAS</h2><p>Steps to obtain the list of Disconnected child accounts of CVAS customer:</p><ol><li>On User Dashboard, you’ll find the second button titled as ‘Connected Customers’.</li><li>By Clicking than Button, a Modal will open showing the list and useful details of resellers’ connected customers.</li><li>And on that Modal, at top left corner, there’s a button titled ‘Disconnected Customers’ (Active but not connected).</li><li>By clicking that button, a list of Disconnected Button will be shown.</li></ol><p>image 1 2 3</p>]]></content>
+        <author>
+            <name>Shoaib Sajid</name>
+            <uri>https://github.com/dexbiobot</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple]]></title>
+        <id>apple</id>
+        <link href="https://dexbiobot.github.io/tac/blog/apple"/>
+        <updated>2021-12-10T14:24:52.460Z</updated>
+        <summary type="html"><![CDATA[Privacy Warning]]></summary>
+        <content type="html"><![CDATA[<h2>Privacy Warning</h2><p><img src="/img/apple_privacy_warning.jpeg" alt="apple_warning"/></p><p>To get rid of this warning, following steps needs to be performed:</p><ol><li><p>Go into the Settings on your Apple device and select “WiFi.”</p></li><li><p>Locate your active network in the list and touch the “i” icon</p></li><li><p>Then touch the toggle to enable “Private Address.”</p></li></ol><p>With this update, your Apple device generates a unique MAC address for each network you access, so you can no longer be tracked.</p><p>If you are getting a “privacy warning” on WiFi on your device, it means that your MAC address is not being masked and the network can see your device’s address and track it.</p><h2>Weak Security</h2><p><img src="https://tunecomp.net/wp-content/uploads/2020/09/fix-Wi-Fi-Weak-Security-iPhone-iOS-14-1280x720.png" alt="weak security"/></p><p>To remove Weak Security Message</p><ol><li><p>Change autentication mode to <strong>WPA2</strong></p></li><li><p>Change encryption mode to <strong>AES</strong></p></li></ol><p><em>If it is EG8147X6 ONT then you can choose</em> <strong>WPA3</strong></p><p>Note: In case WPA2 and AES doesn&#x27;t clear the Weak Security alert is iOS, change the authentication mode and encryption mode to <strong>WPA/WPA2</strong> and back to <strong>WPA2</strong> once again and you could also try resetting the network settings of iOS device and/or forgetting the WiFi network.</p>]]></content>
+        <author>
+            <name>Shoaib Sajid</name>
+            <uri>https://github.com/dexbiobot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12h/24h]]></title>
         <id>time</id>

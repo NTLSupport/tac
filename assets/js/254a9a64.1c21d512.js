@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5332],{7749:function(e){e.exports=JSON.parse('{"allTagsPath":"/tac/blog/tags","slug":"/tac/blog/tags/telemarketing","name":"telemarketing","count":1,"permalink":"/tac/blog/tags/telemarketing"}')}}]);
