@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dexbiobot.github.io/tac/blog"/>
     <subtitle>TAC Blog</subtitle>
-    <icon>https://dexbiobot.github.io/tac/img/clown.ico</icon>
+    <icon>https://dexbiobot.github.io/tac/img/favicon_nayatel.ico</icon>
     <entry>
         <title type="html"><![CDATA[Telemarketing]]></title>
         <id>telemarketing</id>
