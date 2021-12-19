@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7511],{1557:function(e){e.exports=JSON.parse('{"permalink":"/tac/blog","page":1,"postsPerPage":12,"totalPages":1,"totalCount":12,"previousPage":null,"nextPage":null,"blogDescription":"A TAC resource by Shoaib!","blogTitle":"TAC tips!"}')}}]);

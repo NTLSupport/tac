@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4098],{1720:function(s){s.exports=JSON.parse('{"allTagsPath":"/tac/blog/tags","slug":"/tac/blog/tags/systems","name":"systems","count":1,"permalink":"/tac/blog/tags/systems"}')}}]);

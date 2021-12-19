@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7328],{2349:function(s){s.exports=JSON.parse('{"allTagsPath":"/tac/blog/tags","slug":"/tac/blog/tags/ups","name":"ups","count":1,"permalink":"/tac/blog/tags/ups"}')}}]);
