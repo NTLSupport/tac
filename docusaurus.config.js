@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'TAC',
-  tagline: 'A documentation for systems.tac',
+  tagline: 'Documentation for TAC Department',
   url: 'https://nayatel.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
