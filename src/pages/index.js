@@ -18,23 +18,9 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             //href="https://nayatel.netlify.app/docs/intro">
             to="/docs/intro">
-            Level 1
+            Documentation 📄
           </Link>
           <div></div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		  
-          <Link
-            className="button button--secondary button--lg"
-            //href="https://nayatel.netlify.app/docs/intro">
-            to="/docs/access_ngn">
-            Access/NGN TAC
-          </Link>
-          <div></div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		  
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/systems">
-            Systems TAC
-          </Link>
         </div>
       </div>
     </header>
