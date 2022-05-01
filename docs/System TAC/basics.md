@@ -10,11 +10,11 @@ Welcome to the session about Webhosting
 
 ## Learning Objectives
 
-- Understanding [Domain Registration](https://docusaurus.io/).
-- [Webhosting](https://docusaurus.io/docs/styling-layout)
-- [Nmail Architecture](https://docusaurus.io/docs/search)
-- [DNS hosting](https://docusaurus.io/showcase) troubleshooting
-- [Eview](https://docusaurus.io/community/support) troubleshooting
+- Understanding [Domain Registration](https://nayatel.com/).
+- [Webhosting](https://nayatel.com/)
+- [Nmail Architecture](https://nayatel.com/)
+- [DNS hosting](https://nayatel.com/) troubleshooting
+
 
 ## Domain Registration
 

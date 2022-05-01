@@ -27,7 +27,12 @@ const sidebars = {
     {
       type: 'category',
       label: 'TAC',
-      items: ['access_ngn'],
+      items: ['Level 1/tactools','Level 1/sop','Level 1/transfers','Level 1/resources','Level 1/legacy-links'],
+    },
+    {
+      type: 'link',
+      label: 'TAC Workflow v1.15', // The link label
+      href: 'http://knowledge.dsl.net.pk/TAC%20L1%20TroubleShooting%20Guide%20V%201.15.docx', // The external URL
     },
     {
       type: 'doc',
@@ -58,6 +63,11 @@ const sidebars = {
       type: 'category',
       label: 'NOC',
       items: ['Level 1/noc'],
+    },
+    {
+      type: 'link',
+      label: 'Employee Handbook', // The link label
+      href: 'https://drive.google.com/file/d/1yusHlAuYFDjdajiVlfXzGtVsUhSXIKUq/view', // The external URL
     },
     // External link
     {
@@ -90,14 +100,24 @@ const sidebars = {
   ],
   systemSidebar: [
     {
+      type: 'doc',
+      label: 'Introduction',
+      id: 'systems',
+    },
+    {
       type: 'category',
       label: 'Web Hosting',
-      items: ['systems'],
+      items: ['System TAC/basics', 'System TAC/cpanel', 'System TAC/dns', 'System TAC/ssl'],
     },
     {
       type: 'category',
       label: 'Mail Hosting',
       items: ['System TAC/mail_basics','System TAC/mail_infra','System TAC/mail_issues','System TAC/mail_tools'],
+    },
+    {
+      type: 'category',
+      label: 'Nwall',
+      items: ['System TAC/nwall start'],
     },
     {
       type: 'link',

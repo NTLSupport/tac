@@ -166,7 +166,7 @@ const config = {
           },
           {
             type: 'dropdown',
-            label: 'Statuspage ',
+            label: 'Down Detector',
             position: 'left',
             items: [
               {

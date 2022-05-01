@@ -5,7 +5,7 @@ displayed_sidebar: tutorialSidebar
 
 # Let's Get Started!
 
-This website was created to provide technical documentation for System TAC
+This section was created to provide technical documentation for Level 1 TAC
 
 Let's get started by **looking at some features**.
 
@@ -13,11 +13,49 @@ Let's get started by **looking at some features**.
 
 The website is divided into various parts:
 
-- Webhosting
+- Level 1 Resources (*This*)
 
-- Mail Hosting
+- Access/NGN TAC Resources
 
-- Nwall
+- System TAC Resources
+
+
+## Features
+
+- Use the side bar to navigate
+- Quick Search
+- Click Logo to go Home
+- Easy to copy commands
+
+For [Queue](http://172.21.22.142:8080/queuemetrics/qm/realtime2_frame.jsp)
+
+Username: **tac**
+```
+t@Cl0G!n1
+```
+For [NMS](https://nms.nayatel.com/)
+
+Username: **nayatel**
+```
+N@y@te123456
+```
+For [Knowledge](http://knowledge.dsl.net.pk/)
+
+Username: **tac**
+```
+Int3rnal
+```
+For BRAS
+
+Username: **taclevel1**
+```
+F0rtac1ansN3w
+```
+
+For [Softphone (Eyebeam)](https://drive.google.com/file/d/1-s_57yWRCUyswre0IivmZGRkMLvjwDEg/view?usp=sharing)
+```
+FFM95EQKSFUGX33H2TH4CZ89A5GVR6DP24T9XEBC-EXZ4DLA9WDEMCQPF2WAADHZX
+```
 
 ## Clipboards
 

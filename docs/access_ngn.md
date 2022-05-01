@@ -7,17 +7,11 @@ displayed_sidebar: apiSidebar
 
 Welcome to Level 2!
 
-Let's get started by **looking at some features**.
+This space is reserved for Access/NGN TAC.
 
 ## Categories
 
-The website is divided into various parts:
-
-- Webhosting
-
-- Mail Hosting
-
-- Nwall
+Coming Soon..
 
 ## Clipboards
 
