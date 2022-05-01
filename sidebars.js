@@ -48,25 +48,21 @@ const sidebars = {
   ],
   apiSidebar: [
     {
-      type: 'doc',
-      id: 'level2',
-      label: 'Level 2',
-
-    },
-    {
       type: 'category',
       label: 'Access TAC',
-      items: ['Web hosting/cpanel', 'Web hosting/dns', 'Web hosting/eview'],
+      items: ['access_ngn'],
     },
+  ],
+  systemSidebar: [
     {
       type: 'category',
-      label: 'NGN TAC',
-      items: ['Web hosting/cpanel', 'Web hosting/dns', 'Web hosting/eview'],
+      label: 'Systems TAC',
+      items: ['systems'],
     },
     {
-      type: 'category',
-      label: 'NGN TAC',
-      items: ['Web hosting/cpanel', 'Web hosting/dns', 'Web hosting/eview'],
+      type: 'link',
+      label: 'Statuspage', // The link label
+      href: 'https://stats.uptimerobot.com/qXEK3u1m61', // The external URL
     },
   ],
 };

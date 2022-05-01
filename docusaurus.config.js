@@ -195,8 +195,8 @@ const config = {
             position: 'left',
             label: 'Level 1',
           },
-          {to: 'docs/level2', label: 'Level 2', position: 'left'},
-
+          {to: 'docs/access_ngn', label: 'Access/NGN TAC', position: 'left'},
+          {to: 'docs/systems', label: 'Systems TAC', position: 'left'},
         ],
       },
       footer: {
