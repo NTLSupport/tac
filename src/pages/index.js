@@ -16,7 +16,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            href="https://dexbiobot.github.io/nayatel">
+            //href="https://nayatel.netlify.app/docs/intro">
+            to="/docs/access_ngn">
             Level 1
           </Link>
           <div></div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
