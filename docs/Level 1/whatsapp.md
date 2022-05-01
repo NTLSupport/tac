@@ -16,6 +16,13 @@ You need to request from the registered contact number so we may proceed further
 Please elaborate your query so that we can proceed accordingly in this regard.
 ```
 
+## Locked
+
+```
+Dear Customer,
+Your account is currently locked due to non-payment
+```
+
 ## Calls
 
 ```

@@ -24,6 +24,41 @@ const sidebars = {
       label: 'Introduction',
       items: ['intro'],
     },
+    {
+      type: 'category',
+      label: 'TAC',
+      items: ['access_ngn'],
+    },
+    {
+      type: 'doc',
+      id: 'Level 1/whatsapp', // document ID
+      label: 'Whatsapp Templates', // sidebar label
+    },
+    {
+      type: 'category',
+      label: 'Video',
+      items: ['Level 1/basic','Level 1/digital','Level 1/joy', 'Level 1/nwatch'],
+    },
+    {
+      type: 'category',
+      label: 'NGN',
+      items: ['Level 1/voip', 'Level 1/pots'],
+    },
+    {
+      type: 'category',
+      label: 'Core',
+      items: ['Level 1/l2vpn', 'Level 1/optimus', 'Level 1/speedup', 'Level 1/bras', 'Level 1/additional_usage', 'Level 1/microtik'],
+    },
+    {
+      type: 'category',
+      label: 'Systems',
+      items: ['Level 1/eview'],
+    },
+    {
+      type: 'category',
+      label: 'NOC',
+      items: ['Level 1/noc'],
+    },
     // External link
     {
       type: 'link',
