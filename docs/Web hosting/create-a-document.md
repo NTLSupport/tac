@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 12
 ---
 
 # Create a Document
@@ -41,14 +41,14 @@ This is my **first Docusaurus document**!
 
 It is also possible to create your sidebar explicitly in `sidebars.js`:
 
-```js title="sidebars.js"
+```diff title="sidebars.js"
 module.exports = {
   tutorialSidebar: [
     {
       type: 'category',
       label: 'Tutorial',
-      // highlight-next-line
-      items: ['hello'],
+-     items: [...],
++     items: ['hello'],
     },
   ],
 };
