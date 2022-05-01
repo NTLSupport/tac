@@ -41,11 +41,11 @@
 
 ## [HD-Box Smart New ChipSet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSRxHWR22x0dgoCdPEGIfpFSoa-LzK_b9aIz7_nEQXBwkYG-_wn83nd69o0jSR2i0OBylUitdFKKB_h/pubhtml?gid=0&single=true)
 
-## [Unsorted Data](TAC.md)
+## [Unsorted Data](/Level 1/TAC.md)
 
-## [Unsorted Manuals](level1.md)
+## [Unsorted Manuals](/Level 1/level1.md)
 
-## [Unsorted Buttons](links.md)
+## [Unsorted Buttons](/Level 1/links.md)
 
-## [Tips & Tricks](tips.md)
+## [Tips & Tricks](/Level 1/tips.md)
 
