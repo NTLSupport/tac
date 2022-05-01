@@ -115,26 +115,6 @@ const config = {
 
           {
             type: 'dropdown',
-            label: 'Sheets',
-            position: 'left',
-            items: [
-              {
-                label: 'Spam Generation',
-                href: 'https://docs.google.com/spreadsheets/d/1cW5yy324hP-5mh3reZk1qhl2O4P2UE2IFLk8vLg-efQ/edit#gid=0',
-              },
-              {
-                label: 'L2 Credentials',
-                href: 'https://docs.google.com/spreadsheets/d/1bthH71O68wYVhx7kqRhFfAL8El-akcFR26NfCCi-9Ok/edit#gid=1233968413',
-              },
-              {
-                label: 'TT3',
-                href: 'https://docs.google.com/spreadsheets/d/1bthH71O68wYVhx7kqRhFfAL8El-akcFR26NfCCi-9Ok/edit#gid=428404614',
-              },
-            ],
-            
-          },
-          {
-            type: 'dropdown',
             label: 'Links',
             position: 'left',
             items: [
