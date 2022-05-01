@@ -1,4 +1,4 @@
-<h1 align="center"> OPTIMUS </h1>
+# OPTIMUS
 
 ## NAT Type 2
 
