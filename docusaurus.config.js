@@ -51,7 +51,7 @@ const config = {
           {
             type: 'dropdown',
             label: 'Schedule ',
-            position: 'right',
+            position: 'left',
             items: [
               {
                 label: '1 May - 15 May 22 📅',
@@ -112,6 +112,7 @@ const config = {
             ],
             
           },
+
           {
             type: 'dropdown',
             label: 'Sheets',
@@ -132,8 +133,62 @@ const config = {
             ],
             
           },
-
-          
+          {
+            type: 'dropdown',
+            label: 'Links',
+            position: 'left',
+            items: [
+              {
+                label: 'CRM',
+                href: 'https://crm.nayatel.com',
+              },
+              {
+                label: 'Queue',
+                href: 'http://172.21.22.142:8080/queuemetrics/qm/realtime2_frame.jsp',
+              },
+              {
+                label: 'Mail',
+                href: 'https://mail.nayatel.com',
+              },
+              {
+                label: 'NCE',
+                href: 'https://nce.nayatel.com:31943/unisso/login.action?service=%2Funisess%2Fv1%2Fauth%3Fservice%3D%252Fnmsnetworkmgrwebsite%252Fv1%252Fwebswing%252Findexforwebswing.html#page=RlBPUC00LTEoMTcyLjE2LjEzLjk4KSUyNiUyNmlzU3dpbmdPcGVuJTI2JTI2MTY=',
+              },
+              {
+                label: 'Smart NCE',
+                href: 'https://smartwifi.nayatel.com:31943/',
+              },
+              {
+                label: 'Knowledge',
+                href: 'http://knowledge.dsl.net.pk/',
+              },
+              {
+                label: 'Breaks',
+                href: 'https://docs.google.com/spreadsheets/d/1VQaxvNPMNLT79INenGa1EUVogNOYS4rjxUBrD2vSlIs/edit#gid=0',
+              },
+              {
+                label: 'Remote PCs',
+                href: 'https://docs.google.com/spreadsheets/d/1VQaxvNPMNLT79INenGa1EUVogNOYS4rjxUBrD2vSlIs/edit#gid=998609915',
+              },
+            ],
+            
+          },
+          {
+            type: 'dropdown',
+            label: 'Statuspage ',
+            position: 'left',
+            items: [
+              {
+                label: 'CRM',
+                href: 'https://stats.uptimerobot.com/qXEK3u1m61/791605721',
+              },
+              {
+                label: 'Nayatel Email',
+                href: 'https://stats.uptimerobot.com/qXEK3u1m61/791494704',
+              },
+            ],
+            
+          },
           {
             type: 'doc',
             docId: 'intro',
@@ -141,11 +196,7 @@ const config = {
             label: 'Docs',
           },
          // {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://drive.google.com/drive/folders/1Iw0NKuJneexJmTrr3j4-Qz1NF-zR6Dxq',
-            label: 'Manuals',
-            position: 'left',
-          },
+
         ],
       },
       footer: {
