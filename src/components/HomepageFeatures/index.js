@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Level 1',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/support.svg').default,
     description: (
       <>
         Every call lands here.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Access/NGN TAC',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/phone.svg').default,
     description: (
       <>
         ATAs, POTS, PONs, Installation Admins and more.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Systems TAC',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/website.svg').default,
     description: (
       <>
         Web hosting, Mail hosting, SSL,  SMTP relaying and more.

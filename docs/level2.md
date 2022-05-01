@@ -1,11 +1,11 @@
 ---
 sidebar_position: 1
-displayed_sidebar: tutorialSidebar
+displayed_sidebar: apiSidebar
 ---
 
 # Let's Get Started!
 
-This website was created to provide technical documentation for System TAC
+Welcome to Level 2!
 
 Let's get started by **looking at some features**.
 

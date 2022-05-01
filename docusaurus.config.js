@@ -193,9 +193,9 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Docs',
+            label: 'Level 1',
           },
-         // {to: '/blog', label: 'Blog', position: 'left'},
+          {to: 'docs/level2', label: 'Level 2', position: 'left'},
 
         ],
       },
