@@ -43,7 +43,14 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     
     ({
-  
+      announcementBar: {
+        id: 'support_us',
+        content:
+          '⭐️ <b> EID MUBARAK! </b> ⭐️',
+        backgroundColor: '#F57714 ',
+        textColor: '#091E42',
+        isCloseable: true,
+      },
       autoCollapseSidebarCategories: true,
       hideableSidebar: true,
       navbar: {
