@@ -91,8 +91,13 @@ const sidebars = {
   systemSidebar: [
     {
       type: 'category',
-      label: 'Systems TAC',
+      label: 'Web Hosting',
       items: ['systems'],
+    },
+    {
+      type: 'category',
+      label: 'Mail Hosting',
+      items: ['System TAC/mail_basics','System TAC/mail_infra','System TAC/mail_issues','System TAC/mail_tools'],
     },
     {
       type: 'link',
