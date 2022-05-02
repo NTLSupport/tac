@@ -47,9 +47,17 @@
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  width: 25%;
+  float: left;
+  margin-right: 25px;
+  margin-bottom: 25px;
 }
 
 .button:hover {
-  background-color: #4CAF50; /* Green */
+  background-color: #fb810f; /* Green */
   color: white;
+  
+}
+p.clear {
+  clear: both;
 }

@@ -1,19 +1,17 @@
 
+
 # Joybox/JoyApp
 
 ## Emulator
 
-<button href='http://knowledge.dsl.net.pk/TACEmulator/HD%20Box%20Plus/main-menu.html'>HD BOX Plus Emulator</button>
-<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/TACEmulator/HD%20Box%20Smart/main-menu.html', '_blank')">HD BOX Smart Emulator</button>
-<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/JOYBox/index.html', '_blank')">JOYBOX Emulator</button>
+<form action="http://knowledge.dsl.net.pk/TACEmulator/HD%20Box%20Plus/main-menu.html" method="get" target="_blank"><button class="button">HD BOX Plus</button></form>
+<form action="http://knowledge.dsl.net.pk/TACEmulator/HD%20Box%20Smart/main-menu.html" method="get" target="_blank"><button class="button">HD BOX Smart</button></form>
+<form action="http://knowledge.dsl.net.pk/JOYBox/index.html" method="get" target="_blank"><button class="button">JOYBOX</button></form>
 
-[Click me](http://www.google.com){: .btn}
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+<p> &nbsp;</p>
 
-<button onclick="window.location.href='https://bing.com';">Click</button>
-
-<form action="https://nayatel.com" method="get" target="_blank"><button class="button">Click me</button></form>
+<p> &nbsp;</p>
 
 ## Manuals
 
