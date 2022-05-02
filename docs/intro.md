@@ -52,7 +52,7 @@ Username: **taclevel1**
 F0rtac1ansN3w
 ```
 
-For [Softphone (Eyebeam)](https://drive.google.com/file/d/1-s_57yWRCUyswre0IivmZGRkMLvjwDEg/view?usp=sharing)
+For [Softphone (Eyebeam)](https://drive.google.com/uc?export=download&id=1_odzZv5XXH1UvayU6O-RGrbWLllxhEUJ)
 ```
 FFM95EQKSFUGX33H2TH4CZ89A5GVR6DP24T9XEBC-EXZ4DLA9WDEMCQPF2WAADHZX
 ```
