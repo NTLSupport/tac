@@ -8,11 +8,6 @@
 <form action="http://knowledge.dsl.net.pk/TACEmulator/HD%20Box%20Smart/main-menu.html" method="get" target="_blank"><button class="button">HD BOX Smart</button></form>
 <form action="http://knowledge.dsl.net.pk/JOYBox/index.html" method="get" target="_blank"><button class="button">JOYBOX</button></form>
 
-
-<p> &nbsp;</p>
-
-<p> &nbsp;</p>
-
 ## Manuals
 
 
