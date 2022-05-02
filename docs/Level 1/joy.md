@@ -7,6 +7,14 @@
 <button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/TACEmulator/HD%20Box%20Smart/main-menu.html', '_blank')">HD BOX Smart Emulator</button>
 <button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/JOYBox/index.html', '_blank')">JOYBOX Emulator</button>
 
+[Click me](http://www.google.com){: .btn}
+
+<button name="button" onclick="http://www.google.com">Click me</button>
+
+<button onclick="window.location.href='https://bing.com';">Click</button>
+
+<form action="https://nayatel.com" method="get" target="_blank"><button type="submit">Click me</button></form>
+
 ## Manuals
 
 <button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/video/JOY%20APP%20Samsung.pdf', '_blank')">Samsung Joy App</button>
