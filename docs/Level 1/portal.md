@@ -19,7 +19,6 @@
 ![reportandinfo](https://cdn.discordapp.com/attachments/389455820741541893/934858506715168768/ss_2022-01-23_at_10.13.44_PM.png)
 
 
-
 ### Customer Volume Usage
 
 Shows volume usage of the customer.
@@ -27,7 +26,6 @@ Shows volume usage of the customer.
 ![volume](https://cdn.discordapp.com/attachments/389455820741541893/934859230152884334/ss_2022-01-23_at_10.16.36_PM.png)
 
 ### Detail Session Report
-
 
 
 ### Internet Usage History

@@ -63,6 +63,11 @@ const sidebars = {
     },
     {
       type: 'link',
+      label: 'Email Configuration', // The link label
+      href: 'https://drive.google.com/uc?export=download&id=1-hLtyfNKZy5mq2W5v3j5bT6nw4tMVkSY', // The external URL
+    },
+    {
+      type: 'link',
       label: 'TAC Workflow v1.15', // The link label
       href: 'https://drive.google.com/uc?export=download&id=1K7J8El8RcCwEPl-lIxWu8-ZR_Ggio44-', // The external URL
     },
