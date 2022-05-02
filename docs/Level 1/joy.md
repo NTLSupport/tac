@@ -13,14 +13,10 @@
 
 <button onclick="window.location.href='https://bing.com';">Click</button>
 
-<form action="https://nayatel.com" method="get" target="_blank"><button type="submit">Click me</button></form>
+<form action="https://nayatel.com" method="get" target="_blank"><button class="button">Click me</button></form>
 
 ## Manuals
 
-<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/video/JOY%20APP%20Samsung.pdf', '_blank')">Samsung Joy App</button>
-<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/video/Hdbox_SOP.pdf', '_blank')">HD BOX SOP</button>
-<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/video/Hdbox_User_Guide.pdf', '_blank')">HD BOX User Guide</button>
-<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/video/VOD_HDBOX_Configuration_Guide.pdf', '_blank')">VOD & HD BOX Configurations</button>
 
 ## Joy Box Stuck / White Screen
 
