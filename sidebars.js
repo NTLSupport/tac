@@ -94,8 +94,8 @@ const sidebars = {
     },
     {
       type: 'link',
-      label: 'NCE', // The link label
-      href: 'https://nce.nayatel.com:31943/unisso/login.action?service=%2Funisess%2Fv1%2Fauth%3Fservice%3D%252Fnmsnetworkmgrwebsite%252Fv1%252Fwebswing%252Findexforwebswing.html#page=RlBPUC00LTEoMTcyLjE2LjEzLjk4KSUyNiUyNmlzU3dpbmdPcGVuJTI2JTI2MTY=', // The external URL
+      label: 'Ndoctor Emulator', // The link label
+      href: 'https://knowledge.dsl.net.pk/Ndoctor/index.html', // The external URL
     },
   ],
   apiSidebar: [

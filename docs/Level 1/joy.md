@@ -3,7 +3,7 @@
 
 ## Emulator
 
-<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/TACEmulator/HD%20Box%20Plus/main-menu.html', '_blank')">HD BOX Plus Emulator</button>
+<button href='http://knowledge.dsl.net.pk/TACEmulator/HD%20Box%20Plus/main-menu.html'>HD BOX Plus Emulator</button>
 <button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/TACEmulator/HD%20Box%20Smart/main-menu.html', '_blank')">HD BOX Smart Emulator</button>
 <button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/JOYBox/index.html', '_blank')">JOYBOX Emulator</button>
 
