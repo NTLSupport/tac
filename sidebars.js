@@ -134,7 +134,7 @@ const sidebars = {
     {
       type: 'link',
       label: 'Statuspage', // The link label
-      href: 'https://stats.uptimerobot.com/qXEK3u1m61', // The external URL
+      href: 'https://nayatel.betteruptime.com', // The external URL
     },
     {
       type: 'link',

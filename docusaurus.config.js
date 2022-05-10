@@ -171,11 +171,11 @@ const config = {
             items: [
               {
                 label: 'CRM',
-                href: 'https://stats.uptimerobot.com/qXEK3u1m61/791605721',
+                href: 'https://level1.betteruptime.com',
               },
               {
                 label: 'Nayatel Email',
-                href: 'https://stats.uptimerobot.com/qXEK3u1m61/791494704',
+                href: 'https://level1.betteruptime.com',
               },
             ],
             
