@@ -56,7 +56,7 @@ const config = {
           '⭐️ <b> Good Luck with Quarterly! </b> ⭐️',
         backgroundColor: '#d8dee8',
         textColor: '#091E42',
-        isCloseable: true,
+        isCloseable: false,
       },
  
       navbar: {
