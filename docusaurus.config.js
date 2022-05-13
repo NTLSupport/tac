@@ -47,7 +47,7 @@ const config = {
         id: 'support_us',
         content:
           '⭐️ <b> Good Luck with Quarterly! </b> ⭐️',
-        backgroundColor: '#ffc107', ',
+        backgroundColor: '#ffc107',
         textColor: '#091E42',
         isCloseable: true,
       },
