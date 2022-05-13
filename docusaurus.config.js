@@ -46,8 +46,8 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          '⭐️ <b> EID MUBARAK! </b> ⭐️',
-        backgroundColor: '#F57714 ',
+          '⭐️ <b> Good Luck with Quarterly! </b> ⭐️',
+        backgroundColor: '#ffc107', ',
         textColor: '#091E42',
         isCloseable: true,
       },
