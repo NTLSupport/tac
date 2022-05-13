@@ -42,17 +42,23 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     
-    ({
+    (
+      {
+        docs: {
+          sidebar: {
+            hideable: true,
+            autoCollapseCategories: true,
+          },
+        },
       announcementBar: {
         id: 'support_us',
         content:
           '⭐️ <b> Good Luck with Quarterly! </b> ⭐️',
-        backgroundColor: '#ffc107',
+        backgroundColor: '#d8dee8',
         textColor: '#091E42',
         isCloseable: true,
       },
-      autoCollapseSidebarCategories: true,
-      hideableSidebar: true,
+ 
       navbar: {
         logo: {
           alt: 'My Site Logo',
