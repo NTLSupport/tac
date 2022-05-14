@@ -109,6 +109,114 @@ const sidebars = {
       label: 'Access TAC',
       items: ['access_ngn'],
     },
+    {
+      type: 'link',
+      label: 'Commands HuaweiOLT/ BRAS/ ASR Feb2021', // The link label
+      href: 'http://knowledge.dsl.net.pk/Access-NGN%20TAC_Manuals/HuaweiOLT+BRAS+ASR_Commands_Feb2021.txt', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'POTS_passwords_NGN', // The link label
+      href: 'http://knowledge.dsl.net.pk/Access-NGN%20TAC_Manuals/POTS_passwords_NGN.xlsx', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'Egresses_Ports_Sep2021', // The link label
+      href: 'http://knowledge.dsl.net.pk/Access-NGN%20TAC_Manuals/Master%20Egress%20Ports_Sep2021.xlsx', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'Equipment Retrieval Manual Feb2021', // The link label
+      href: 'http://knowledge.dsl.net.pk/Access-NGN%20TAC_Manuals/Manual_Equipment_Retrieval_Feb2021.docx', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'Training Access-NGN TAC Feb2021', // The link label
+      href: 'http://knowledge.dsl.net.pk/Access-NGN%20TAC_Manuals/Manual_Training_Access-NGN%20TAC_Feb2021.docx', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'Troubleshooting Access-NGN TAC V2.0 Feb2021', // The link label
+      href: 'http://knowledge.dsl.net.pk/Access-NGN%20TAC_Manuals/Manual_Troubleshooting_Access-NGN%20TAC_V2.0_Feb2021.docx', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'Installation Manual June2021', // The link label
+      href: 'http://knowledge.dsl.net.pk/Access-NGN%20TAC_Manuals/Manual_Installation_June2021.docx', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'CVAS Installation 2020', // The link label
+      href: 'http://knowledge.dsl.net.pk/Access-NGN%20TAC_Manuals/Manual_CVAS_Installation_2020.pdf', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'Installation Checklist_March2021', // The link label
+      href: 'http://knowledge.dsl.net.pk/Access-NGN%20TAC_Manuals/Installation_Checklist_March2021.xlsx', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'N-watch Troubleshooting 2020', // The link label
+      href: 'http://knowledge.dsl.net.pk/Access-NGN%20TAC_Manuals/Manual_N-watch_Troubleshooting_2020.pdf', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'POTS Troubleshooting 2020', // The link label
+      href: 'http://knowledge.dsl.net.pk/Access-NGN%20TAC_Manuals/Manual_POTS_Troubleshooting_2020.pdf', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'Manual Service Port Plotting 2020', // The link label
+      href: 'http://knowledge.dsl.net.pk/Access-NGN%20TAC_Manuals/Manual_Service_Port_Plotting_2020.pdf', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'Custom Line Profile Cases', // The link label
+      href: 'http://knowledge.dsl.net.pk/Access-NGN%20TAC_Manuals/Custom_Line_Profile_Cases_2020.pdf', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'Manual HOSTEX Extensions Creation BICOM_2018', // The link label
+      href: 'http://knowledge.dsl.net.pk/Access-NGN%20TAC_Manuals/Manual_HOSTEX_Extensions_Creation_BICOM_2018.PDF', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'Manual ATA Cisco SPA112 2-port_2018', // The link label
+      href: 'http://knowledge.dsl.net.pk/Access-NGN%20TAC_Manuals/Manual_ATA_Cisco_SPA112_2-port_2018.pdf', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'Manual ATA D-link DVG-2102S 2-port_2018', // The link label
+      href: 'http://knowledge.dsl.net.pk/Access-NGN%20TAC_Manuals/Manual_ATA_D-link_DVG-2102S_2-port_2018.pdf', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'Manual ATA D-link DVG-5102S 2-port_2021', // The link label
+      href: 'http://knowledge.dsl.net.pk/Access-NGN%20TAC_Manuals/Manual_ATA_D-link_DVG-5102S_2-port_2021.pdf', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'Manual ATA Linksys SPA8000 8-port_2018', // The link label
+      href: 'http://knowledge.dsl.net.pk/Access-NGN%20TAC_Manuals/Manual_ATA_D-link_DVG-2102S_2-port_2018.pdf', // The external URL
+    },
+    
+    {
+      type: 'link',
+      label: 'CloudPBX Access Configuration Manual_final', // The link label
+      href: 'http://knowledge.dsl.net.pk/CloudPBX%20Access%20Configuration%20Manual_final.pdf', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'Extenstion Script (Cisco SPA112)', // The link label
+      href: 'http://knowledge.dsl.net.pk/ABC.csv', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'ATCA SoftScript', // The link label
+      href: 'http://knowledge.dsl.net.pk/ATCA%20SoftScript%20v%201.1.xlsx', // The external URL
+    },
+
+
   ],
   systemSidebar: [
     {
