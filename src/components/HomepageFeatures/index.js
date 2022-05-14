@@ -32,7 +32,36 @@ const FeatureList = [
   },
 ];
 
+const FeatureList2 = [
+  {
+    title: 'Mails',
+    description: (
+      <>
+        Coming soon (status page)
+      </>
+    ),
+  },
+  {
+    title: 'CRM',
+    description: (
+      <>
+        ![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/eee9.svg)](https://betteruptime.com/?utm_source=status_badge)
+      </>
+    ),
+  },
+];
 
+function Feature2({ title, description}) {
+  return (
+    <div className={clsx('col col--4')}>
+
+      <div className="text--center padding-horiz--md">
+        <h3>{title}</h3>
+        <p>{description}</p>
+      </div>
+    </div>
+  );
+}
 
 function Feature({Svg, title, description}) {
   return (
@@ -56,6 +85,13 @@ export default function HomepageFeatures() {
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
+          
+        </div>
+        <div className="row">
+          {FeatureList2.map((props, idx) => (
+            <Feature2 key={idx} {...props} />
+          ))}
+          
         </div>
       </div>
     </section>
