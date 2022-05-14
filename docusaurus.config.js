@@ -170,22 +170,27 @@ const config = {
             ],
             
           },
-          {
-            type: 'dropdown',
-            label: 'Down Detector',
+          // {
+          //   type: 'dropdown',
+          //   label: 'Down Detector',
+          //   position: 'left',
+          //   items: [
+          //     {
+          //       label: 'CRM',
+          //       href: 'https://level1.betteruptime.com',
+          //     },
+          //     {
+          //       label: 'Nayatel Email',
+          //       href: 'https://level1.betteruptime.com',
+          //     },
+          //   ],
+          // },
+          { 
+            href: 'https://level1.betteruptime.com',
             position: 'left',
-            items: [
-              {
-                label: 'CRM',
-                href: 'https://level1.betteruptime.com',
-              },
-              {
-                label: 'Nayatel Email',
-                href: 'https://level1.betteruptime.com',
-              },
-            ],
-            
+            label: 'Downdetector',
           },
+
           {
             type: 'doc',
             docId: 'intro',

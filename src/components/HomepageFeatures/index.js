@@ -34,30 +34,30 @@ const FeatureList = [
 
 const FeatureList2 = [
   {
-    title: 'Mails',
+    title: 'Mails Status',
     description: (
       <>
-        Coming soon (status page)
+        Use downdetector for now(coming soon)
       </>
     ),
   },
   {
-    title: 'CRM',
+    title: 'CRM Status',
     description: (
       <>
-        ![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/eee9.svg)](https://betteruptime.com/?utm_source=status_badge)
-      </>
+Use downdetector for now(coming soon)
+       </>
     ),
   },
 ];
 
-function Feature2({ title, description}) {
+function Feature2({title, description}) {
   return (
     <div className={clsx('col col--4')}>
 
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
-        <p>{description}</p>
+        {description}
       </div>
     </div>
   );
