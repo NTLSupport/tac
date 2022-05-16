@@ -10,4 +10,4 @@ There is only one version at the moment
 
 ## Reporting a Vulnerability
 
-To report an issue, you can directly come to me.
+To report an issue, you can directly come to me..
