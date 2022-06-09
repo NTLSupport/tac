@@ -78,7 +78,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          '⭐️ <b> Good Luck with Quarterly! </b> ⭐️',
+          '⭐️ <b> Try the new Search! </b> ⭐️',
         backgroundColor: '#d8dee8',
         textColor: '#091E42',
         isCloseable: false,
