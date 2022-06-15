@@ -95,8 +95,12 @@ const config = {
             label: 'Schedule ',
             position: 'left',
             items: [
+              {
+                label: '16 June - 30 June 22 📅',
+                href: 'https://docs.google.com/spreadsheets/d/1TXsBNioCIirRxiwAybI7qTE4dOIIemlgjIfoOVvWWno/edit#gid=0',
+              },
                {
-                label: '1 June - 15 June 22 📅',
+                label: '1 June - 15 June 22 ',
                 href: 'https://docs.google.com/spreadsheets/d/1hJeB8z7AMkn_61yAT5SllGlz5JwXlfsKl4OakV7XwKo/edit#gid=0',
               },
               {
