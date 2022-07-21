@@ -69,6 +69,34 @@ You can also contact the Nayatel Sales team on working days on Email: sales@naya
 ```
 We apologise for the delay. Please note that your request has been escalated to Sales Department
 ```
+## IP Whitelisting
+
+```
+Follow the below process to get your call center’s IP(s) Whitelisted:
+
+1. Get the static IP from any Internet Service Provider (ISP) that has a valid license from PTA. 
+2. Prevailing IP Whitelisting Policy/Criteria is available at
+
+https://pseb.org.pk/images/2021/12/categorization-of-call-centers-ip.pdf
+
+3. Email the following information at ipreport@pseb.org.pk
+
+i. Details of IP(s) to be whitelisted
+ii. Name of the ISP
+iii. Customer ID given by ISP
+iv. Copy of active NTN certificate
+v. Copy of valid provisional registration, issued by PSEB
+
+Note:
+
+• PSEB will forward your IP whitelisting request to PTA with auto intimation to you. Once 
+you got the IP whitelisted, you have to apply for verification/inspection of your call center 
+on PSEB registration portal (by using your login credentials) to complete the registration 
+process.
+
+• Original PO/DD of Rs.500/- (in favor of PTA) is required to submit PSEB office for each 
+IP to be whitelist (only if more then four (04) IP addresses are in plan to use).
+```
 
 ## Shifting
 
