@@ -52,6 +52,12 @@ For any billing related query, you can contact the concerned Nayatel Billing tea
 We apologise for the delay. Please note that your request has been escalated to Billing Department
 ```
 
+## TAX Certificate
+
+```
+Dear customer, you can get Tax certificate from Nayatel Customer Portal. Please login into customer.nayatel.com and then go to billing and download it from there.
+```
+
 ## Sales
 
 ```
