@@ -120,7 +120,7 @@ Please share your complete address in text format.
 Thank you for showing interest in Nayatel services.
 
 - For coverage area, please visit https://nayatel.com/coverage-area/
-- For packages details please visit https://nayatel.com/packages-filter/
+- For packages details please visit https://nayatel.com/islamabad-home-packages
 - To apply for a new connection, please visit https://customer.nayatel.com/CustomerSignup/
 - For charges details, kindly visit https://nayatel.com/upfront-charges/
 
