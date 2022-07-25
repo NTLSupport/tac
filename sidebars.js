@@ -242,7 +242,7 @@ const sidebars = {
     {
       type: 'link',
       label: 'Statuspage', // The link label
-      href: 'https://nayatel.betteruptime.com', // The external URL
+      href: 'http://139.162.55.119:3001/status/nayatel', // The external URL
     },
     {
       type: 'link',
