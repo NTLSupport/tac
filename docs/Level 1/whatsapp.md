@@ -160,6 +160,21 @@ Cable TV parameters are fine from our end. Please check cable connection between
 If issue persists then do tell us, we will send a technician for problem resolution. Standard visit charges of Rs. 350 are applicable if issue lies at your end. 
 ```
 
+## Digital Box Default Restore
+
+```
+Dear Customer, kindly follow the following steps:
+
+1- Press "Menu" button from remote
+2- Then go to 3rd icon menu naming "Tools"
+3- Press "Restore Default" option from right menu
+4- Enter "0000" as password and press OK and then wait for 2 minutes.
+5- Then go back to top antenna icon naming "Installation"
+6- Press "Auto Search" Button and wait until it searches all channels.
+
+```
+
+
 ## Cabling
 
 ```
